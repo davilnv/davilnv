@@ -9,7 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davilnv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilnv&layout=compact&langs_count=16&theme=dracula"/>
 <div>
-
+  
+### DEV Card
+<a href="https://app.daily.dev/davilnv"><img src="https://api.daily.dev/devcards/1dee67fa49fd4524a4a325e8b2d4fc80.png?r=krf" width="400" alt="Davi Lima's Dev Card"/></a>
   
 ### 💬 Redes sociais
 [<img src = "https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&logoColor=black">](mailto:davilima871@gmail.com)
