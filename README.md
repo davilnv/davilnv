@@ -1,4 +1,4 @@
-### Estudante de Bacharelado em Sistemas de Informação na UFRPE, desenvolvedor backend com ênfase em aplicações Java, entusiasta no estudo de SQL, desenvolvimento de jogos e aplicações mobile.
+### Consultor Técnico na Sankhya Gestão de Negócios e Estudante de Bacharelado em Sistemas de Informação na UFRPE, desenvolvedor backend com ênfase em aplicações Java, entusiasta no estudo de SQL, desenvolvimento de jogos e aplicações mobile.
 
 ### 📊 Status
 
