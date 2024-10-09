@@ -1,4 +1,4 @@
-### Desenvolvedor Backend e Estudante de Bacharelado em Sistemas de Informação na UFRPE, entusiasta no estudo de SQL, desenvolvimento de jogos e aplicações mobile.
+### Desenvolvedor Backend, entusiasta no estudo de SQL, desenvolvimento de APIs e aplicações mobile.
 
 ### 📊 Status
 
